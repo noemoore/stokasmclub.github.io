@@ -1,0 +1,24 @@
+#header {
+    width: 100%;
+    text-align: center;
+}
+
+#logo-lol {
+    display: inline-block;
+}
+
+#essay {
+    color: 000;
+    background-color: #fff;
+    font-family: Courier;
+    font-size: 25;
+    font-style: bold;
+    margin: 10%;
+    border: #000 10px solid;
+    padding: 5%;
+}
+
+body {
+    background-image:url('static/clouds.jpg');
+    background-size: cover;
+}
